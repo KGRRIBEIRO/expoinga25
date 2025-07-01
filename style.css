@@ -73,3 +73,32 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
+
+.acessibilidade {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.acessibilidade button {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.acessibilidade button:hover {
+    background-color: #003366;
+    color: #fff;
+}
+
+.opcoes-acessibilidade {
+    bottom: 60px;
+    right: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    display: none;
+}
+
